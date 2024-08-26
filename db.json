@@ -1,0 +1,7 @@
+{
+    "users":[
+        {"id":"1","name":"rajesh","age":"19"},
+        {"id":"2","name":"satish","age":"19"},
+        {"id":"3","name":"shiva","age":"19"}
+    ]
+}
